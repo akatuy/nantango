@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.233101f6.chunk.css",
-    "main.js": "./static/js/main.dd016aa4.chunk.js",
-    "main.js.map": "./static/js/main.dd016aa4.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.7b7700e6.js",
-    "runtime-main.js.map": "./static/js/runtime-main.7b7700e6.js.map",
-    "static/css/2.e7f7683d.chunk.css": "./static/css/2.e7f7683d.chunk.css",
-    "static/js/2.63785182.chunk.js": "./static/js/2.63785182.chunk.js",
-    "static/js/2.63785182.chunk.js.map": "./static/js/2.63785182.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.03565935599aa5122c8d33308dd54599.js": "./precache-manifest.03565935599aa5122c8d33308dd54599.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.e7f7683d.chunk.css.map": "./static/css/2.e7f7683d.chunk.css.map",
-    "static/css/main.233101f6.chunk.css.map": "./static/css/main.233101f6.chunk.css.map",
-    "static/js/2.63785182.chunk.js.LICENSE": "./static/js/2.63785182.chunk.js.LICENSE"
+    "main.css": "/assets/quiz-front/static/css/main.233101f6.chunk.css",
+    "main.js": "/assets/quiz-front/static/js/main.93d62e2a.chunk.js",
+    "main.js.map": "/assets/quiz-front/static/js/main.93d62e2a.chunk.js.map",
+    "runtime-main.js": "/assets/quiz-front/static/js/runtime-main.e9aeb1bf.js",
+    "runtime-main.js.map": "/assets/quiz-front/static/js/runtime-main.e9aeb1bf.js.map",
+    "static/css/2.e7f7683d.chunk.css": "/assets/quiz-front/static/css/2.e7f7683d.chunk.css",
+    "static/js/2.b9f8cd2d.chunk.js": "/assets/quiz-front/static/js/2.b9f8cd2d.chunk.js",
+    "static/js/2.b9f8cd2d.chunk.js.map": "/assets/quiz-front/static/js/2.b9f8cd2d.chunk.js.map",
+    "index.html": "/assets/quiz-front/index.html",
+    "precache-manifest.706bd7809c98bd090c2eaf9a637ab98a.js": "/assets/quiz-front/precache-manifest.706bd7809c98bd090c2eaf9a637ab98a.js",
+    "service-worker.js": "/assets/quiz-front/service-worker.js",
+    "static/css/2.e7f7683d.chunk.css.map": "/assets/quiz-front/static/css/2.e7f7683d.chunk.css.map",
+    "static/css/main.233101f6.chunk.css.map": "/assets/quiz-front/static/css/main.233101f6.chunk.css.map",
+    "static/js/2.b9f8cd2d.chunk.js.LICENSE": "/assets/quiz-front/static/js/2.b9f8cd2d.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.7b7700e6.js",
+    "static/js/runtime-main.e9aeb1bf.js",
     "static/css/2.e7f7683d.chunk.css",
-    "static/js/2.63785182.chunk.js",
+    "static/js/2.b9f8cd2d.chunk.js",
     "static/css/main.233101f6.chunk.css",
-    "static/js/main.dd016aa4.chunk.js"
+    "static/js/main.93d62e2a.chunk.js"
   ]
 }
