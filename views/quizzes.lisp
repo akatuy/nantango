@@ -70,9 +70,3 @@
        <h1>{(quiz-ja2 quiz)}</h1>
      </body>
    </html>))
-
-
-(defview play-quiz-page ()
-  ()
-  (:render #P"index.html"))
-

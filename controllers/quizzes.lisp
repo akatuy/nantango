@@ -34,10 +34,11 @@
           :selected-words (mito:select-dao 'nantango/models/quiz:quiz
                             (sxql:where (:= :level (aget params :level))))))
 
-;; play-quiz
 (defun play-quiz (params)
   (declare (ignore params))
-  (render 'play-quiz-page))
+  (uiop:read-file-string
+    (asdf:system-relative-pathname 
+    :nantango #P"public/assets/quiz-front/index.html")))
 
 (defvar *quizzes*
   ;; クイズ一覧を作成する
